@@ -1,5 +1,5 @@
 
-import Java.util.Scanner;
+import Java.Util.Scanner;
 
 public class Switch {
     
