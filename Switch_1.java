@@ -12,7 +12,7 @@ public class Switch_1 {
         
              int m = 5;
 
-        Switch(d){
+        switch(d){
 
             case 1:
                 m =(m + 5);
