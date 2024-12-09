@@ -14,23 +14,24 @@ public class Switchcase {
 
         switch(d){
 
-            case 1 -> {
+            case 1:
                 m =(m + 5);
                 System.out.println(" "+m);
-            }
-            case 2 -> {
+            break;
+            case 2: 
                 m = (m + 10);
                 System.out.println(" "+m);
-            }
-            case 3 -> {
+            break;
+            case 3:
                 m = (m + 10);
                 System.out.println(" "+m);
-            }
-            case 4 -> {
+            break;
+            case 4:
                 m = (m + 10);
                 System.out.println(" "+m);
-            }
-            default -> System.out.println("Non");
+            break;
+            default :
+                System.out.println("Non");
             }
 
         mm.close();
