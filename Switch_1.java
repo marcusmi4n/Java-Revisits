@@ -14,7 +14,7 @@ public class Switch_1 {
 
         Switch(d){
 
-        case 1:
+            case 1:
                 m =(m + 5);
             break;
             case 2:
