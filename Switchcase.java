@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Switch_1 {
+public class Switchcase {
     
     public static void main(String[] args) {
         Scanner mm = new Scanner(System.in);
